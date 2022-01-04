@@ -193,3 +193,16 @@ yum install git -y
 git --version
 java --version
 git --version
+git init
+ll
+touch adi tya
+ll
+git add adi tya
+git status
+git commit -m "commit files"
+git config -- user.email "nagendrareddy33.g@email.com"
+git config uer.name "bharathi"
+git commit -m "commit files"
+git status
+git remote add origin  create mode 100644 mm
+git remote add origin  create mode 100644 r
